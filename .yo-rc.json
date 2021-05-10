@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.lxisoft.fms"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "fms",
+    "packageName": "com.lxisoft.fms",
+    "packageFolder": "com/lxisoft/fms",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzljOWY1NzVmZmU4ZjM3NmRlMzE1MmUwZjUzOTQ2MjI0ZDYxYTBiMjM0OGFmZjI4OTY5NGIzMzE0MDc0MzY5YTI0MTkwMjZmN2Y3NzY2OTAxNTc4MjBlMTA1NjRlMjhjZDdlNTU5YmQ3NWU1MjllZTc5ODcwOTdlMDIwY2ZjNTY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cerulean",
+    "clientThemeVariant": "dark",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
